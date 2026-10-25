@@ -27,3 +27,5 @@ Maintain consistent typography, spacing, and visual hierarchy.
 Encourage potential clients to explore services and make contact.
 
 ## Screenshots
+
+![Screen shot](Screenshot_25-10-2026_111511_.jpeg)
