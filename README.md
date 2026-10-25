@@ -28,4 +28,7 @@ Encourage potential clients to explore services and make contact.
 
 ## Screenshots
 
+![Screenshot](Screenshot_25-10-2026_111759_.jpeg)
 ![Screen shot](Screenshot_25-10-2026_111511_.jpeg)
+![Screen shot](Screenshot_25-10-2026_111712_.jpeg)
+
